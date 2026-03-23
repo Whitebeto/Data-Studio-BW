@@ -1,0 +1,1 @@
+{"name": "Digital Clock KPI", "description": "Display estilo relógio digital para horários", "resources": {"js": ["script.js"], "css": []}, "data": {"dimensions": [{"id": "time_range", "name": "Faixa Horária"}]}, "style": [{"id": "font_size", "label": "Tamanho da Fonte", "type": "NUMBER", "defaultValue": 48}]}
